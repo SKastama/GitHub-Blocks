@@ -1,0 +1,37 @@
+.container {
+    width: 800px;
+    height: 900px;
+    background-color: rgb(240, 240, 240);
+    padding: 25px;
+}
+h1 {
+    color: rgb(56, 56, 56);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+img {
+    width: 200px;
+}
+
+
+.firstBar {
+    background-color: rgb(97, 195, 255);
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.secondBar {
+    background-color: rgb(206, 161, 189);
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.thirdBar {
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.row {
+    display: flex;
+    justify-content: space-around;
+}
